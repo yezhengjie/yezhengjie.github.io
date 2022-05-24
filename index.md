@@ -10,9 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### 这里从这里开始访问 
 
-[🔍]: https://yezhengjie.github.io/
+[博客]: https://yezhengjie.github.io/
 
- [ 📌剑指 Offer 题解 ](notes/剑指%20Offer%20题解%20-%20目录.md）  
+ [剑指 Offer 题解](notes/剑指%20Offer%20题解%20-%20目录.md）  
 
 > 算法题参考牛客网，题解参考CS-Notes，重新用JavaScript写了
 
