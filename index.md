@@ -3,8 +3,19 @@
 You can use the [editor on GitHub](https://github.com/yezhengjie/yezhengjie.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-# 我的第一个笔记，创建于2022.5.24
-##  这里从这里开始访问 https://yezhengjie.github.io/
+
+#  💡  我的第一个笔记
+
+#### 📐 创建于2022.5.24
+
+#### 这里从这里开始访问 
+
+[🔍]: https://yezhengjie.github.io/
+
+ [ 📌剑指 Offer 题解 ](notes/剑指 Offer 题解 - 目录.md)  
+
+> 算法题参考牛客网，题解参考CS-Notes，重新用JavaScript写了
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
