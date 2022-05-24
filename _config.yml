@@ -1,1 +1,12 @@
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+
+title: my notebook
+
 theme: jekyll-theme-cayman
